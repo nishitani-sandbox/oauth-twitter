@@ -1,0 +1,2 @@
+export CONSUMER_KEY=YourConsumerKey
+export CONSUMER_KEY_SECRET=YourConsumerKeySecret
