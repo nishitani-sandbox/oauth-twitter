@@ -4,11 +4,11 @@ Useless sample to learn about OAuth.
 
 **finished before redirecting user to sign in page**
 
-# Requirements
+## Requirements
 
 * [direnv](https://github.com/direnv/direnv)
 
-# How to use
+## How to use
 
 ```
 $ cp _envrc .envrc
@@ -18,6 +18,6 @@ $ npm i
 $ $(npm bin)/babel-node index.js
 ```
 
-# Author
+## Author
 
 [nishitaniyuki](https://github.com/nishitaniyuki)
